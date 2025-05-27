@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+torch        # later, when we add the model
+boto3        # later, for AWS
